@@ -11,5 +11,5 @@ CSS의 keyframes 등을 이용하여 간단하고 심플한 디자인의 애니�
 <img width="1439" alt="스크린샷 2022-06-20 10 23 59" src="https://user-images.githubusercontent.com/105402245/174509567-3360395e-c885-4ca9-b576-106a6b1c42e6.png">
 
 # 녹화
-Uploading 화면 기록 2022-06-20 10.22.08.mov…
+https://user-images.githubusercontent.com/105402245/174509647-871f6234-56f9-4a97-9eaf-0cc851abef96.mov
 
